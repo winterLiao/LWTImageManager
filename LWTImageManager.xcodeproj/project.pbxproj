@@ -228,6 +228,7 @@
 				TargetAttributes = {
 					7E38C72D1F665A9D00B6BF56 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = VQ99SSF866;
 						ProvisioningStyle = Automatic;
 					};
 					7E38C7461F665A9D00B6BF56 = {
@@ -247,6 +248,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -440,9 +442,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = VQ99SSF866;
 				INFOPLIST_FILE = LWTImageManager/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = qhfax.com.LWTImageManager;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LWTImageManager;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -451,9 +454,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = VQ99SSF866;
 				INFOPLIST_FILE = LWTImageManager/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = qhfax.com.LWTImageManager;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LWTImageManager;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
